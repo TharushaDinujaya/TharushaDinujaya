@@ -7,7 +7,7 @@
 <h3 align="center">A Embedded Systems enthusiast and Software Developer.</h3>
 <br/>
 
-> <h3 align="center"> Hi there </h3>
+> <h3 align="center"> Everything changes in an instant </h3>
 
 ![](https://komarev.com/ghpvc/?username=TharushaDinujaya&color=brightgreen)
 
@@ -23,21 +23,23 @@
 
 <p align="center">
 
-<h1>Languages & Frameworks</h1>
-<img src="https://skillicons.dev/icons?i=angular,arduino,c,cpp,cmake,css,dart,express,flask,flutter" />
-<img src="https://skillicons.dev/icons?i=git,html,java,js,nodejs,opencv,py,raspberrypi,react,ros,tensorflow,ts" />
-<br/>
+> <h1>Languages & Frameworks</h1>
+> <img src="https://skillicons.dev/icons?i=angular,arduino,c,cpp,cmake,css,dart,express,flask,flutter" />
+> <img src="https://skillicons.dev/icons?i=git,html,java,js,nodejs,opencv,py,raspberrypi,react,ros,tensorflow,ts" />
+> <br/>
+
 <hr/>
 
-<h1>Tools</h1>
-<img src="https://skillicons.dev/icons?i=anaconda,androidstudio,azure,bootstrap,debian,figma,github,gmail,idea,linkedin" />
-<img src="https://skillicons.dev/icons?i=linux,materialui,mongodb,mysql,npm,postman,pycharm,stackoverflow,ubuntu,vercel,vscode,windows" />
-<br/>
+> <h1>Tools</h1>
+> <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,azure,bootstrap,debian,figma,github,gmail,idea,linkedin" />
+> <img src="https://skillicons.dev/icons?i=linux,materialui,mongodb,mysql,npm,postman,pycharm,stackoverflow,ubuntu,vercel,vscode,windows" />
+> <br/>
+
 <hr/>
 
 </p>
 
-<h1> Recent GitHub Activity 📈</h1>
+> <h1> Recent GitHub Activity 📈</h1>
 
 <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharushaDinujaya&theme=github_dark"></p>
 
@@ -48,7 +50,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TharushaDinujaya&theme=github_dark">
 </p>
 
-<h1> GitHub Streak 📈</h1>
+> <h1> GitHub Streak 📈</h1>
+
 <p align="center>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TharushaDinujaya&theme=github-dark&date_format=j%20M%5B%20Y%5D&background=6%2C070B68F1%2C000000&stroke=0029EB&ring=1DD8EB&sideLabels=12EBDB&dates=0F69EB&border=000000)](https://git.io/streak-stats)
