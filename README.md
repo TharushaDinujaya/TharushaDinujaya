@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
 
-<p align="left">
+<p align="center">
 
 <h2>Languages & Frameworks</h2>
 <hr/>
