@@ -18,3 +18,17 @@
 - 🌱 I'm willing to learn **Linux, OpenCV and SprinBoot**
 
 - 📫 You can reach me on **tharushad.21@cse.mrt.ac.lk**
+
+- ✍️ In my free time, I pursue watching TV Series, Movies and Playing Games.
+
+<h3 align="left">Languages, Frameworks and Tools:</h3>
+
+<p align="left">
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&perline=3" />
+</a>
+
+<br/>
+
+</p>
