@@ -40,4 +40,4 @@
 
 ### Recent GitHub Activity 📈
 
-<p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={TharushaDinujaya}&theme={tokyonight}"></p>
+<p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharushaDinujaya&theme=github_dark"></p>
