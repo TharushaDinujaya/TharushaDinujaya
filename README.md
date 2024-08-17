@@ -23,17 +23,21 @@
 
 <p align="center">
 
-<h1 style="font-weight: bold; font-style: italic; color: gray;">Languages & Frameworks</h1>
+<h1>Languages & Frameworks</h1>
 <hr/>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,arduino,c,cpp,cmake,css,dart,express,flask,flutter,git,html,java,js,nodejs,opencv,py,raspberrypi,react,regex,ros,tensorflow,ts&perline=10" />
 </a>
 <br/>
 
-<h1 style="font-weight: bold; font-style: italic; color: gray;">Tools</h1>
+<h1>Tools</h1>
 <hr/>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,azure,bootstrap,debian,figma,github,gmail,idea,linkedin,linux,materialui,mongodb,mysql,npm,postman,pycharm,stackoverflow,ubuntu,vercel,vscode,windows&perline=10" />
 <br/>
 
 </p>
+
+### Recent GitHub Activity 📈
+
+<p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={TharushaDinujaya}&theme={tokyonight}"></p>
