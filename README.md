@@ -38,6 +38,13 @@
 
 </p>
 
-### Recent GitHub Activity 📈
+<h1> Recent GitHub Activity 📈</h1>
 
-<p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharushaDinujaya&theme=github_dark"></p>
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharushaDinujaya&theme=github_dark"></p>
+
+<p align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TharushaDinujaya&theme=github_dark">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TharushaDinujaya&theme=github_dark">
+</p>
