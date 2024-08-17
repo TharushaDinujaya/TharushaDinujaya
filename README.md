@@ -52,7 +52,7 @@
 
 > <h1> GitHub Streak 📈</h1>
 
-<p align="center>
+<p align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TharushaDinujaya&theme=github-dark&date_format=j%20M%5B%20Y%5D&background=6%2C070B68F1%2C000000&stroke=0029EB&ring=1DD8EB&sideLabels=12EBDB&dates=0F69EB&border=000000)](https://git.io/streak-stats)
 
