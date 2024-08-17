@@ -39,7 +39,7 @@
 
 </p>
 
-> <h1> Recent GitHub Activity 📈</h1>
+> <h1> Recent GitHub Activity</h1>
 
 <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharushaDinujaya&theme=github_dark"></p>
 
@@ -50,7 +50,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TharushaDinujaya&theme=github_dark">
 </p>
 
-> <h1> GitHub Streak 📈</h1>
+> <h1> GitHub Streak</h1>
 
 <p align="center">
 
