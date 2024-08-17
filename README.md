@@ -6,3 +6,17 @@
 </p>
 <h3 align="center">A Embedded Systems enthusiast and Software Developer.</h3>
 <br/>
+
+> <h3 align="center"> Hi there </h3>
+
+<p align="left"> <img src="https://github.com/TharushaDinujaya" alt="Tharushadinujaya" /> </p>
+
+![](https://komarev.com/ghpvc/?username=TharushaDinujaya&color=brightgreen)
+
+- 🎓 I'm an Undergraduate at _University of Moratuwa, Department of Computer Science and Engineering_
+
+- 🌱 I’m currently learning **Machine Learning, React and Embedded Systems**
+
+- 🌱 I'm willing to learn **Linux, OpenCV and SprinBoot**
+
+- 📫 You can reach me on **tharushad.21@cse.mrt.ac.lk**
