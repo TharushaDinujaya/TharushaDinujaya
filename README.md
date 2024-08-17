@@ -7,7 +7,7 @@
 <h3 align="center">A Embedded Systems enthusiast and Software Developer.</h3>
 <br/>
 
-> <h3 align="center"> Everything changes in an instant </h3>
+> <h2 align="center"> Everything changes in an instant </h2>
 
 ![](https://komarev.com/ghpvc/?username=TharushaDinujaya&color=brightgreen)
 
@@ -24,16 +24,16 @@
 <p align="center">
 
 <h1>Languages & Frameworks</h1>
-> <img src="https://skillicons.dev/icons?i=angular,arduino,c,cpp,cmake,css,dart,express,flask,flutter" />
-> <img src="https://skillicons.dev/icons?i=git,html,java,js,nodejs,opencv,py,raspberrypi,react,ros,tensorflow,ts" />
-> <br/>
+<img src="https://skillicons.dev/icons?i=angular,arduino,c,cpp,cmake,css,dart,express,flask,flutter" />
+<img src="https://skillicons.dev/icons?i=git,html,java,js,nodejs,opencv,py,raspberrypi,react,ros,tensorflow,ts" />
+<br/>
 
 <hr/>
 
 <h1>Tools</h1>
-> <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,azure,bootstrap,debian,figma,github,gmail,idea,linkedin" />
-> <img src="https://skillicons.dev/icons?i=linux,materialui,mongodb,mysql,npm,postman,pycharm,stackoverflow,ubuntu,vercel,vscode,windows" />
-> <br/>
+<img src="https://skillicons.dev/icons?i=anaconda,androidstudio,azure,bootstrap,debian,figma,github,gmail,idea,linkedin" />
+<img src="https://skillicons.dev/icons?i=linux,materialui,mongodb,mysql,npm,postman,pycharm,stackoverflow,ubuntu,vercel,vscode,windows" />
+<br/>
 
 <hr/>
 
