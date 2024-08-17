@@ -23,14 +23,14 @@
 
 <p align="center">
 
-> <h1>Languages & Frameworks</h1>
+<h1>Languages & Frameworks</h1>
 > <img src="https://skillicons.dev/icons?i=angular,arduino,c,cpp,cmake,css,dart,express,flask,flutter" />
 > <img src="https://skillicons.dev/icons?i=git,html,java,js,nodejs,opencv,py,raspberrypi,react,ros,tensorflow,ts" />
 > <br/>
 
 <hr/>
 
-> <h1>Tools</h1>
+<h1>Tools</h1>
 > <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,azure,bootstrap,debian,figma,github,gmail,idea,linkedin" />
 > <img src="https://skillicons.dev/icons?i=linux,materialui,mongodb,mysql,npm,postman,pycharm,stackoverflow,ubuntu,vercel,vscode,windows" />
 > <br/>
@@ -39,7 +39,7 @@
 
 </p>
 
-> <h1> Recent GitHub Activity</h1>
+<h1> Recent GitHub Activity</h1>
 
 <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharushaDinujaya&theme=github_dark"></p>
 
@@ -50,7 +50,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TharushaDinujaya&theme=github_dark">
 </p>
 
-> <h1> GitHub Streak</h1>
+<h1> GitHub Streak</h1>
 
 <p align="center">
 
