@@ -11,11 +11,11 @@
 
 ![](https://komarev.com/ghpvc/?username=TharushaDinujaya&color=brightgreen)
 
-- 🎓 I'm an Undergraduate at _University of Moratuwa, Department of Computer Science and Engineering_
+- 🎓 I'm an Undergraduate at **University of Moratuwa, Department of Computer Science and Engineering**
 
-- 🌱 I’m currently learning **Machine Learning, React and Embedded Systems**
+- 🌱 I’m currently learning **Machine Learning, IoT Devices and Embedded Systems**
 
-- 🌱 I'm willing to learn **Linux, OpenCV and SprinBoot**
+- 🌱 I'm willing to learn **OpenCV, Linux, and TinyML**
 
 - 📫 You can reach me on **tharushad.21@cse.mrt.ac.lk**
 
@@ -24,15 +24,15 @@
 <p align="center">
 
 <h1>Languages & Frameworks</h1>
-<img src="https://skillicons.dev/icons?i=angular,arduino,c,cpp,cmake,css,dart,express,flask,flutter" />
-<img src="https://skillicons.dev/icons?i=git,html,java,js,nodejs,opencv,py,raspberrypi,react,ros,tensorflow,ts" />
+<img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,express,flask,flutter,git,html" />
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,opencv,py,raspberrypi,react,tensorflow,ts" />
 <br/>
 
 <hr/>
 
 <h1>Tools</h1>
-<img src="https://skillicons.dev/icons?i=anaconda,androidstudio,azure,bootstrap,debian,figma,github,gmail,idea,linkedin" />
-<img src="https://skillicons.dev/icons?i=linux,materialui,mongodb,mysql,npm,postman,pycharm,stackoverflow,ubuntu,vercel,vscode,windows" />
+<img src="https://skillicons.dev/icons?i=anaconda,androidstudio,azure,bootstrap,figma,github,idea,mongodb,mysql,npm" />
+<img src="https://skillicons.dev/icons?i=linux,materialui,postman,pycharm,stackoverflow,ubuntu,vercel,vscode,windows" />
 <br/>
 
 <hr/>
