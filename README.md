@@ -4,18 +4,18 @@
    <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=40&duration=3000&pause=1000&color=0DF712&center=true&width=435&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Tharusha"/>
 </a>
 </p>
-<h3 align="center">A Embedded Systems enthusiast and Software Developer.</h3>
+<h3 align="center">Software Developer | Machine Learning Enthusiast</h3>
 <br/>
 
 > <h2 align="center"> Everything changes in an instant </h2>
 
 ![](https://komarev.com/ghpvc/?username=TharushaDinujaya&color=brightgreen)
 
-- 🎓 I'm an Undergraduate at _University of Moratuwa, Department of Computer Science and Engineering_
+- 🎓 I'm an Undergraduate at **University of Moratuwa, Department of Computer Science and Engineering**
 
-- 🌱 I’m currently learning **Machine Learning, React and Embedded Systems**
+- 🌱 I’m currently learning **Machine Learning, Software Engineering and Embedded Systems**
 
-- 🌱 I'm willing to learn **Linux, OpenCV and SprinBoot**
+- 🌱 I'm willing to learn **GANs, Scalable Systems and System optimization**
 
 - 📫 You can reach me on **tharushad.21@cse.mrt.ac.lk**
 
@@ -24,16 +24,23 @@
 <p align="center">
 
 <h1>Languages & Frameworks</h1>
-<img src="https://skillicons.dev/icons?i=angular,arduino,c,cpp,cmake,css,dart,express,flask,flutter" />
-<img src="https://skillicons.dev/icons?i=git,html,java,js,nodejs,opencv,py,raspberrypi,react,ros,tensorflow,ts" />
-<br/>
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,ts,js,html" />
+   <br>
+   <img src="https://skillicons.dev/icons?i=mongo,postgres,mysql" />
+   <br>
+   <img src="https://skillicons.dev/icons?i=flask,nestjs,next,express,flask,react" />
+   <br>
+   <img src="https://skillicons.dev/icons?i=git,nodejs,docker,github,arduino" />
+   <br>
+   <img src="https://skillicons.dev/icons?i=opencv,jest,bootstrap" />
+   <br/>
+   <img src="https://skillicons.dev/icons?i=figma,idea,postman,pycharm,androidstudio,pycharm,stackoverflow,vercel,vscode" />
+   <br/>
+   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+</p>
 
-<hr/>
-
-<h1>Tools</h1>
-<img src="https://skillicons.dev/icons?i=anaconda,androidstudio,azure,bootstrap,debian,figma,github,gmail,idea,linkedin" />
-<img src="https://skillicons.dev/icons?i=linux,materialui,mongodb,mysql,npm,postman,pycharm,stackoverflow,ubuntu,vercel,vscode,windows" />
-<br/>
+<br>
 
 <hr/>
 
@@ -54,6 +61,6 @@
 
 <p align="center">
 
- <img src="https://streak-stats.demolab.com?user=TharushaDinujaya&theme=github-dark&date_format=j%20M%5B%20Y%5D&background=6%2C070B68F1%2C000000&stroke=0029EB&ring=1DD8EB&sideLabels=12EBDB&dates=0F69EB&border=000000" alt="GitHub Streak">
+ <img src="https://streak-stats.demolab.com?user=TharushaDinujaya&theme=github-dark-blue" alt="GitHub Streak">
 
 </p>
